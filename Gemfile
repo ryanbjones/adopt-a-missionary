@@ -27,7 +27,7 @@ gem 'devise'
 # gem 'capistrano-rails', group: :development
 
 group :development, :test do
-  gem 'pry'
+  gem 'pry-nav'
   gem 'rspec-rails', '~> 3.5'
 
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
